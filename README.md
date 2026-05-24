@@ -61,7 +61,7 @@ The CLLib project is a lightweight and efficient command line interface library 
 The core class logic is implemented in C++11.
 
 ## Screenshots
-<img src="https://github.com/Loufok0/CLLib/blob/main/ressources/Show.png" width="400">
+<img src="https://github.com/Loufok0/CLLib/blob/main/ressources/Show.png" width="800">
 
 AI was not used to write this project — all configuration decisions were made and validated manually.
 
