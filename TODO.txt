@@ -1,0 +1,2 @@
+- sections/categories for the help page
+- colors for the help page ?
